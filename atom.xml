@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>贰六</title>
+  <title>贰六的个人博客</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-16T13:01:33.499Z</updated>
+  <updated>2023-11-17T16:55:56.869Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,12 @@
     <link href="http://example.com/2023/11/16/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2023/11/16/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-11-15T16:00:00.000Z</published>
-    <updated>2023-11-16T13:01:33.499Z</updated>
+    <updated>2023-11-17T16:55:56.869Z</updated>
     
-    <content type="html"><![CDATA[<p>我的编程技术不是很好，自学前端也才不到一个周，经过可能 5 个多小时才搞成这样，还有那些网页还没配置好，不过我会慢慢加油的，尽快将他研究出来，就这样，然后写个代码试试</p><h3 id="写的代码"><a href="#写的代码" class="headerlink" title="写的代码"></a>写的代码</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">print</span>(<span class="string">&quot;i love you&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>我的编程技术不是很好，自学前端也才不到一个周，经过可能 5 个多小时才搞成这样，还有那些网页还没配置好，不过我会慢慢加油的，尽快将他研究出来，就这样，然后写个代码试试</p><h1 id="写着试试的代码"><a href="#写着试试的代码" class="headerlink" title="写着试试的代码"></a>写着试试的代码</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;i love you&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;我的编程技术不是很好，自学前端也才不到一个周，经过可能 5 个多小时才搞成这样，还有那些网页还没配置好，不过我会慢慢加油的，尽快将他研究出来，就这样，然后写个代码试试&lt;/p&gt;
-&lt;h3 id=&quot;写的代码&quot;&gt;&lt;a href=&quot;#写的代码&quot; class=&quot;headerlink&quot; </summary>
-      
+    <summary type="html">第一次建博客写博客的感受</summary>
     
     
     
