@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-17T17:06:53.183Z</updated>
+  <updated>2023-11-17T17:17:13.554Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/11/16/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2023/11/16/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-11-15T16:00:00.000Z</published>
-    <updated>2023-11-17T17:06:53.183Z</updated>
+    <updated>2023-11-17T17:17:13.554Z</updated>
     
     <content type="html"><![CDATA[<p>我的编程技术不是很好，自学前端也才不到一个周，经过可能 5 个多小时才搞成这样，还有那些网页还没配置好，不过我会慢慢加油的，尽快将他研究出来，就这样，然后写个代码试试</p><h1 id="写着试试的代码"><a href="#写着试试的代码" class="headerlink" title="写着试试的代码"></a>写着试试的代码</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;i love you&quot;</span>)</span><br></pre></td></tr></table></figure><p>OK，又来更新了，主要我是大学生，一天天还要上课，真的烦~~~有搞了几个小时，终于是差不多搞好了。已经是快一点半了，那就这样吧，拜拜</p>]]></content>
     
